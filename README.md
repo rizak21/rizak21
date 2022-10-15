@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> # my name is riza khan
-# i'm from 3rd year.
-# pronouns: she/her
+--> 
+# my name is riza khan
+# Student
