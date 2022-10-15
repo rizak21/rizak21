@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> # my name is riza khan
-## i'm from 3rd year.
+# i'm from 3rd year.
+# pronouns: she/her
